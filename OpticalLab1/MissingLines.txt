@@ -1,0 +1,96 @@
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Sep 22 15:21:47 PDT 2017
+User: ugastro
+Dark Spectrum Present: Yes
+Reference Spectrum Present: Yes
+Number of Sampled Component Spectra: 1
+Spectrometers: USB2G5981
+Integration Time (usec): 100000 (USB2G5981)
+Spectra Averaged: 1 (USB2G5981)
+Boxcar Smoothing: 0 (USB2G5981)
+Correct for Electrical Dark: No (USB2G5981)
+Strobe/Lamp Enabled: No (USB2G5981)
+Correct for Detector Non-linearity: No (USB2G5981)
+Correct for Stray Light: No (USB2G5981)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
+>>>>>End Processed Spectral Data<<<<<
+
+ AbsorbIncan
+
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Sep 22 15:01:14 PDT 2017
+User: ugastro
+Dark Spectrum Present: No
+Reference Spectrum Present: No
+Number of Sampled Component Spectra: 1
+Spectrometers: USB2G5981
+Integration Time (usec): 100000 (USB2G5981)
+Spectra Averaged: 1 (USB2G5981)
+Boxcar Smoothing: 0 (USB2G5981)
+Correct for Electrical Dark: No (USB2G5981)
+Strobe/Lamp Enabled: No (USB2G5981)
+Correct for Detector Non-linearity: No (USB2G5981)
+Correct for Stray Light: No (USB2G5981)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
+
+>>>>>End Processed Spectral Data<<<<< WaveIncan
+
+###################################################################################################
+
+Covarience of Fluor: [[  1.23519043e-02  -6.47634010e+00]
+ 		      [ -6.47634010e+00   3.46930809e+03]]
+Variance of Slope of Fluor:  0.012351904267
+Standard Deviation of Slope of Fluor: 0.111139121227
+Variance of y-intercept of Fluor: 3469.30809385
+Variance of Slope of Fluor:  0.012351904267
+Standard Deviation of Slope of Fluor: 0.111139121227
+Variance of y-intercept of Fluor: 3469.30809385
+Standard Deviation of y-intercept of Fluor: 58.9008327093
+Coeff: [    5.91908592 -2099.97625667] (Gain/slope, Read Noise/y-intercept)
+
+##################################################################################################
+
+Covarience: [[  8.64237858e-30  -1.30534393e-27]
+ 	     [ -1.30534393e-27   1.13578652e-24]]
+Variance of Slope :  8.64237857933e-30
+Standard Deviation of Slope: 2.93979226806e-15
+Variance of y-intercept (Read Noise): 1.13578651659e-24
+Standard Deviation of y-intercept: 1.06573285423e-12
+Coeff: [  1.00000000e+03  -4.11590317e-11] (Gain/slope, Read Noise/y-intercept)
+
+##############################################################################################33
+
+Covarience for neon: [[  2.33549812e-03  -1.46208706e+00]
+ 		      [ -1.46208706e+00   9.16673084e+02]]
+Variance of Slope for neon:  0.00233549811746
+Standard Deviation of Slope for neon: 0.0483269916036
+Variance of y-intercept for neon: 916.673084381
+Standard Deviation of y-intercept for neon: 30.2766095259
+Coeff for neon: [    6.71314669 -2573.23209401] (Gain/slope, Read Noise/y-intercept)
+
+#################################################################################################
+slope and y int for 
+Covarience: [[  5.13450859e-30  -2.80086190e-28]
+ 	     [ -2.80086190e-28   1.95101305e-25]]
+Variance of Gain:  5.13450858804e-30
+Standard Deviation of Gain for neon: 2.26594540712e-15
+Variance of read noise for neon: 1.95101304652e-25
+Standard Deviation of read noise for neon: 4.41702733354e-13
+slope: 6.71314669103
+Y-intercept:  -2573.23209401
+Coeff: [ 1000.     0.] (Gain/slope, Read Noise/y-intercept)
+
+#################################################################################################
+Covarience for neon: [[  1.01143225e-29  -1.03970000e-27]
+                      [ -1.03970000e-27   8.56777385e-25]]
+Variance of Slope for neon:  1.01143224886e-29
+Standard Deviation of Slope for neon: 3.18030226372e-15
+Variance of y-intercept for neon: 8.56777385458e-25
+Standard Deviation of y-intercept for neon: 9.2562270146e-13
+slope for neon: 1000.0
+Y-intercept:  5.82076609135e-11
+Coeff for neon: [  1.00000000e+03   5.82076609e-11]
